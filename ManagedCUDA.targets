@@ -10,7 +10,7 @@
       <DebugSymbols>true</DebugSymbols>
       <DebugType>embedded</DebugType>
       <EmbedAllSources>true</EmbedAllSources>      
-      <Platform>x64</Platform>      
+      <Platform>AnyCPU</Platform>      
       <BaseVersion>10.0</BaseVersion>
       <PackageVersion>$(BaseVersion).$(Rev)$(Prerelease)</PackageVersion>
       <AssemblyVersion>$(BaseVersion).$(Rev)</AssemblyVersion>
